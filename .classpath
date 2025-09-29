@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-edge-driver-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-firefox-driver-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-firefox-driver-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-http-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-http-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-ie-driver-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-ie-driver-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-java-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-java-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-json-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-json-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-manager-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-manager-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-os-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-os-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-remote-driver-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-remote-driver-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-safari-driver-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-safari-driver-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-support-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-support-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/byte-buddy-1.17.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/byte-buddy-1.17.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/commons-exec-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/commons-exec-1.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/error_prone_annotations-2.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/error_prone_annotations-2.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/failureaccess-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/failureaccess-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/guava-33.4.8-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/guava-33.4.8-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-api-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-api-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-common-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-common-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-context-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-context-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-exporter-logging-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-exporter-logging-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-common-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-common-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-extension-autoconfigure-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-logs-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-logs-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-metrics-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-metrics-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-trace-1.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/opentelemetry-sdk-trace-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-api-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-api-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-chrome-driver-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-chrome-driver-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-chromium-driver-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-chromium-driver-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-devtools-v137-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-devtools-v137-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-devtools-v138-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-devtools-v138-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-devtools-v139-4.36.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-devtools-v139-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/selenium-edge-driver-4.36.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kuter/Downloads/selenium-java-4.36.0-SNAPSHOT/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

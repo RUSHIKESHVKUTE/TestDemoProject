@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="demo project(failed)">
+    <classes>
+      <class name="DemoProject.Sample.LoginTestCases">
+        <methods>
+          <include name="NegativeloginTC3"/>
+          <include name="PositiveloginTC"/>
+          <include name="NegativeloginTC2"/>
+          <include name="closeBrowser"/>
+          <include name="openbrowser"/>
+          <include name="NegativeloginTC1"/>
+        </methods>
+      </class> <!-- DemoProject.Sample.LoginTestCases -->
+      <class name="DemoProject.Sample.HomePageTestCases">
+        <methods>
+          <include name="openbrowser"/>
+          <include name="VerifyPracticePage"/>
+          <include name="closeBrowser"/>
+          <include name="VerifyHomePage"/>
+          <include name="VerifyBlogPage"/>
+          <include name="VerifyCoursesPage"/>
+          <include name="VerifyContactPage"/>
+        </methods>
+      </class> <!-- DemoProject.Sample.HomePageTestCases -->
+    </classes>
+  </test> <!-- demo project(failed) -->
+</suite> <!-- Failed suite [Suite] -->

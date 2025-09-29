@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-29T11:17:49 IST" name="Suite" finished-at="2025-09-29T11:19:49 IST" duration-ms="120459">
+    <groups>
+    </groups>
+    <test started-at="2025-09-29T11:17:49 IST" name="demo project" finished-at="2025-09-29T11:19:49 IST" duration-ms="120459">
+      <class name="DemoProject.Sample.HomePageTestCases">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:DemoProject.Sample.HomePageTestCases@79d8407f]" started-at="2025-09-29T11:18:42 IST" name="openbrowser" finished-at="2025-09-29T11:18:51 IST" duration-ms="9057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="VerifyHomePage()[pri:0, instance:DemoProject.Sample.HomePageTestCases@79d8407f]" started-at="2025-09-29T11:18:51 IST" name="VerifyHomePage" finished-at="2025-09-29T11:18:56 IST" duration-ms="5040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePage -->
+        <test-method signature="VerifyPracticePage()[pri:1, instance:DemoProject.Sample.HomePageTestCases@79d8407f]" started-at="2025-09-29T11:18:56 IST" name="VerifyPracticePage" finished-at="2025-09-29T11:19:00 IST" duration-ms="3546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPracticePage -->
+        <test-method signature="VerifyCoursesPage()[pri:2, instance:DemoProject.Sample.HomePageTestCases@79d8407f]" started-at="2025-09-29T11:19:00 IST" name="VerifyCoursesPage" finished-at="2025-09-29T11:19:26 IST" duration-ms="26011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCoursesPage -->
+        <test-method signature="VerifyBlogPage()[pri:3, instance:DemoProject.Sample.HomePageTestCases@79d8407f]" started-at="2025-09-29T11:19:26 IST" name="VerifyBlogPage" finished-at="2025-09-29T11:19:34 IST" duration-ms="8092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBlogPage -->
+        <test-method signature="VerifyContactPage()[pri:4, instance:DemoProject.Sample.HomePageTestCases@79d8407f]" started-at="2025-09-29T11:19:34 IST" name="VerifyContactPage" finished-at="2025-09-29T11:19:49 IST" duration-ms="14929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyContactPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:DemoProject.Sample.HomePageTestCases@79d8407f]" started-at="2025-09-29T11:19:49 IST" name="closeBrowser" finished-at="2025-09-29T11:19:49 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- DemoProject.Sample.HomePageTestCases -->
+      <class name="DemoProject.Sample.LoginTestCases">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:DemoProject.Sample.LoginTestCases@609cd4d8]" started-at="2025-09-29T11:17:49 IST" name="openbrowser" finished-at="2025-09-29T11:18:30 IST" duration-ms="40893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="NegativeloginTC1()[pri:1, instance:DemoProject.Sample.LoginTestCases@609cd4d8]" started-at="2025-09-29T11:18:30 IST" name="NegativeloginTC1" finished-at="2025-09-29T11:18:32 IST" duration-ms="2490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegativeloginTC1 -->
+        <test-method signature="NegativeloginTC2()[pri:2, instance:DemoProject.Sample.LoginTestCases@609cd4d8]" started-at="2025-09-29T11:18:32 IST" name="NegativeloginTC2" finished-at="2025-09-29T11:18:35 IST" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegativeloginTC2 -->
+        <test-method signature="NegativeloginTC3()[pri:3, instance:DemoProject.Sample.LoginTestCases@609cd4d8]" started-at="2025-09-29T11:18:35 IST" name="NegativeloginTC3" finished-at="2025-09-29T11:18:37 IST" duration-ms="2282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegativeloginTC3 -->
+        <test-method signature="PositiveloginTC()[pri:4, instance:DemoProject.Sample.LoginTestCases@609cd4d8]" started-at="2025-09-29T11:18:37 IST" name="PositiveloginTC" finished-at="2025-09-29T11:18:42 IST" duration-ms="5266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveloginTC -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:DemoProject.Sample.LoginTestCases@609cd4d8]" started-at="2025-09-29T11:18:42 IST" name="closeBrowser" finished-at="2025-09-29T11:18:42 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- DemoProject.Sample.LoginTestCases -->
+    </test> <!-- demo project -->
+  </suite> <!-- Suite -->
+</testng-results>
